@@ -26,5 +26,6 @@
     "url": "https://github.com/hyunwoo2973/nextjs-chat-tutorial/issues"
   },
   "homepage": "https://github.com/hyunwoo2973/nextjs-chat-tutorial#readme",
-  "devDependencies": {}
-}
+  "devDependencies": {"cross-env": "^7.0.3"
+  }}
+
